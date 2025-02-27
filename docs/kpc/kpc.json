@@ -1,0 +1,21 @@
+{
+ "firmware":
+ [{
+  "type":"release",
+  "ver":"100",
+  "url":
+  {
+   "core2":"http://www.lovyan03.com/kpc/firmware_core2.bin"
+   "cores3":"http://www.lovyan03.com/kpc/firmware_cores3.bin"
+  }
+ },
+ {
+  "type":"develop",
+  "ver":"10",
+  "url":
+  {
+   "core2":"http://www.lovyan03.com/kpc/firmware_core2.bin"
+   "cores3":"http://www.lovyan03.com/kpc/firmware_cores3.bin"
+  }
+ }]
+}
